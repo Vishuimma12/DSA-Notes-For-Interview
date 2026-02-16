@@ -401,7 +401,7 @@ before reaching single elements.
 ### Easy
 
 1. **Implement Merge Sort** for an array and print the array after each merge step.
-2. **Merge Two Sorted Arrays** into one sorted array without using extra space for one of them (the merge subroutine in isolation). *(LeetCode 88)*
+2. **Merge Two Sorted Arrays** into one sorted array without using extra space for one of them (the merge subroutine in isolation). *(LeetCode 88) ✅*
 3. Sort an array using Merge Sort and **count the total number of merge operations** performed.
 
 ### Medium
@@ -618,3 +618,4 @@ before reaching single elements.
 ---
 
 *📌 Source: Striver's A2Z DSA Course — Step 2.2: Merge Sort*
+
